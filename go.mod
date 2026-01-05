@@ -1,4 +1,4 @@
-module github.com/cuandari/cli
+module github.com/cuandari/lib
 
 go 1.25.0
 
